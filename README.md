@@ -1,6 +1,6 @@
 # AI-Tools-Worth-Using
 
-[Lilys AI (for notetaking and detailed summarizations of Youtube videos and research pdfs](https://lilys.ai)
+[Lilys AI (for notetaking and detailed summarizations of Youtube videos and research pdfs)](https://lilys.ai)
   * [Example](https://lilys.ai/digest/657978)
 
 [Awesome ML Github repo (lot more resources] (https://github.com/underlines/awesome-ml?tab=readme-ov-file)
